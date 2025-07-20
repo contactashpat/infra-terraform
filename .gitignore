@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+.idea/*
+.idea
+
+.terraform
+
+
+# Terraform
+.terraform/
+
+# Node.js dependencies
+api/node_modules/
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Idea project files
+.idea/
+
+# Logs or temp files (optional)
+*.log
+
+
+*.zip
+*.mp4
+
+.terraform.tfstate.lock.info
